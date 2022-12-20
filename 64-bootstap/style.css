@@ -1,0 +1,100 @@
+
+#brand{
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+body,.image-row{
+    margin-top: 10px;
+
+}
+.bottom-container{
+    padding-top: 30px;
+}
+
+.company-name{
+
+background-color: #E5B8F4;
+height: 100PX;
+text-align: center;
+padding-top: 30PX;
+font-weight: bolder;
+font-size: larger;
+}
+.company-name1{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-weight: bolder;
+    font-size: larger;
+    color: #411530;
+}
+.footer{
+    margin: 40px;
+    text-align: center;
+}
+H5{
+    text-shadow: 1px 1PX 1PX #F8EDE3;
+    padding-left: 10px;
+}
+.image-row{
+    background-color: #1A120B;
+    color: #fff;
+    line-height: 2;
+
+}
+.icon{
+}
+.join_btn{
+    text-align: center;
+}
+nav{ 
+    background-color:#85586F;
+}
+.nav-link{
+    color: #F8EDE3;
+}
+#navbarTogglerDemo01{
+    background-color: #85586F;
+    font-size:small;
+}
+.opening_image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.para1{
+    padding-top: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+p{
+    text-align:left;
+}
+.Search{
+    padding: 30px;
+}
+.title{
+    background-color:#F8EDE3;
+}
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.UAV{
+    text-align: center;
+    font-weight: bold;
+}
+.Boeing-231{
+    text-align: center;
+    font-weight: bold;
+}
+.PSLV{
+    text-align: center;
+    font-weight: bold;
+}
+.Antartica{
+    text-align: center;
+    font-weight: bold;
+}
